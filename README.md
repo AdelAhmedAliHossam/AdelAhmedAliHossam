@@ -8,8 +8,8 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=6E57F7&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&color=6E57F7&label=Followers)](https://github.com/YOUR_USERNAME)
+![Profile Views](https://komarev.com/ghpvc/?username=AdelAhmedAliHossam&color=6E57F7&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&color=6E57F7&label=Followers)](https://github.com/AdelAhmedAliHossam)
 
 </div>
 
