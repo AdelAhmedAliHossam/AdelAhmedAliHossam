@@ -9,7 +9,7 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AdelAhmedAliHossam&color=6E57F7&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&color=6E57F7&label=Followers)](https://github.com/AdelAhmedAliHossam)
+[![GitHub followers](https://img.shields.io/github/followers/AdelAhmedAliHossam?style=flat-square&color=6E57F7&label=Followers)](https://github.com/AdelAhmedAliHossam)
 
 </div>
 
@@ -70,7 +70,7 @@ class Adel:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AdelAhmedAliHossam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdelAhmedAliHossam&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br/>
@@ -122,7 +122,7 @@ I wake up every morning thinking about what I can build, what problem I can solv
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/YOUR_USERNAME)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/AdelAhmedAliHossam)
 
 </div>
 
